@@ -25,10 +25,14 @@ This is a learning module from the course ***Learn Java Functional Programming W
 - [x] Step 07: Quick Review of Functional Programming Basics 
 ### Playing with Streams
 
-- [] Step 01: Learning Stream Operations - Calculate Sum using reduce | [code]()
-- [] Step 02: Playing with reduce | [code]()
-- [] Step 03: Exploring Streams with Puzzles in JShell | [code]()
-- [] Step 04: Do Functional Programming Exercises with Streams and reduce | [code]()
+- [x] Step 01: Learning Stream Operations - Calculate Sum using reduce | [code]()
+  - Sum of elements in the list using reduce
+- [x] Step 02: Playing with reduce
+- [x] Step 03: Exploring Streams with Puzzles in JShell 
+- [x] Step 04: Do Functional Programming Exercises with Streams and reduce | [code]()
+  - Sum of square in the list
+  - Sum of cube in the list
+  - Sum of odd number in the list
 - [] Step 05: Learn Stream Operations - distinct and sorted | [code]()
 - [] Step 06: Using Comparators to Sort Streams with sorted | [code]()
 - [] Step 07: Collecting Stream Elements to List using collect | [code]()
@@ -69,3 +73,5 @@ This is a learning module from the course ***Learn Java Functional Programming W
 - [] Step 02: Playing with Files using Functional Programming | [code]()
 - [] Step 03: Playing with Threads using Functional Programming | [code]()
 - [] Step 04: Using Functional Programming in Java Applications | [code]()
+
+[Online jshell](https://tryjshell.org)
