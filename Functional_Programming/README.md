@@ -33,10 +33,19 @@ This is a learning module from the course ***Learn Java Functional Programming W
   - Sum of square in the list
   - Sum of cube in the list
   - Sum of odd number in the list
-- [] Step 05: Learn Stream Operations - distinct and sorted | [code]()
+- [x] Step 05: Learn Stream Operations - distinct and sorted | [code]()
+  - Print Sorted list
+  - Print Distinct elements in the list
 - [] Step 06: Using Comparators to Sort Streams with sorted | [code]()
+  - Sort a list of courses in ascending order - Comparator.naturalOrder[sorted]
+  - sort list of courses in descending order - Comparator.reverseOrder[sorted]
+  - sort list based on each course string length - user defined Comparator.comparing(lamdaEx)
 - [] Step 07: Collecting Stream Elements to List using collect | [code]()
-- [] Step 08: Reviewing Streams - Intermediate and Stream Operations | [code]()
+  - List of even numbers using collector
+  - List containing length of string using collector
+- [x] Step 08: Reviewing Streams - Intermediate and Stream Operations | [code]()
+  - Intermediate Operation accepts stream and returns stream
+  - Terminator Operation accepts stream and returns some other datatype than stream
 ### Exploring Java Functional Interfaces and Lambdas
 
 - [] Step 01: Getting Started with Functional Interfaces - Predicate, Consumer and Function | [code]()
