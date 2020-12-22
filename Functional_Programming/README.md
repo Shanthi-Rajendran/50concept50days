@@ -7,8 +7,8 @@ This is a learning module from the course ***Learn Java Functional Programming W
 ###Topics
 ### Introduction to the Course
 
-- [] Step 01: Functional Programming with Java - Course Overview | [code]()
-- [] Step 02: Functional Programming with Java - Exploring Github Repo and Installations  | [code]()
+- [x] Step 01: Functional Programming with Java - Course Overview 
+- [x] Step 02: Functional Programming with Java - Exploring Github Repo and Installations  
 ### Introduction to Functional Programming with Java
 
 - [] Step 01: Getting Started with Functional Programming with Java | [code]()
