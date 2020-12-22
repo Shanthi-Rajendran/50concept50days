@@ -11,13 +11,18 @@ This is a learning module from the course ***Learn Java Functional Programming W
 - [x] Step 02: Functional Programming with Java - Exploring Github Repo and Installations  
 ### Introduction to Functional Programming with Java
 
-- [] Step 01: Getting Started with Functional Programming with Java | [code]()
-- [] Step 02: Writing Your First Java Functional Program | [code]()
-- [] Step 03: Improving Java Functional Program with filter | [code]()
-- [] Step 04: Using Lambda Expression to enhance your Functional Program | [code]()
-- [] Step 05: Do Functional Programming Exercises with Streams, Filters and Lambdas | [code]()
-- [] Step 06: Using map in Functional Programs - with Exercises | [code]()
-- [] Step 07: Quick Review of Functional Programming Basics | [code]()
+- [x] Step 01: Getting Started with Functional Programming with Java | [code]()
+- [x] Step 02: Writing Your First Java Functional Program | [code]()
+   - List of elements using method reference 
+- [x] Step 03: Improving Java Functional Program with filter | [code]()
+   - Filter even numbers using filter - method reference
+- [x] Step 04: Using Lambda Expression to enhance your Functional Program | [code]()
+   - Filter even numbers using filter - using lambda expression
+- [x] Step 05: Do Functional Programming Exercises with Streams, Filters and Lambdas | [code]()
+   - List of courses
+- [x] Step 06: Using map in Functional Programs - with Exercises | [code]()
+   - Cubing number in the list , finding number of character of each element in the list
+- [x] Step 07: Quick Review of Functional Programming Basics 
 ### Playing with Streams
 
 - [] Step 01: Learning Stream Operations - Calculate Sum using reduce | [code]()

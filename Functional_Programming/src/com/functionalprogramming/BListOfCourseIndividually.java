@@ -14,7 +14,6 @@ public class BListOfCourseIndividually {
         filterCourseSpring(courses);
         System.out.println("----- Print Courses Whose Name has atleast 4 letters -----");
         filterCourseBasedOnLength(courses);
-        System.out.println(.1+.2);
     }
 
     private static void filterCourseBasedOnLength(List<String> courses) {
