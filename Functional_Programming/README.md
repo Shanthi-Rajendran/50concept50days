@@ -36,7 +36,7 @@ This is a learning module from the course ***Learn Java Functional Programming W
 - [x] Step 05: Learn Stream Operations - distinct and sorted | [code]()
   - Print Sorted list
   - Print Distinct elements in the list
-- [] Step 06: Using Comparators to Sort Streams with sorted | [code]()
+- [x] Step 06: Using Comparators to Sort Streams with sorted | [code]()
   - Sort a list of courses in ascending order - Comparator.naturalOrder[sorted]
   - sort list of courses in descending order - Comparator.reverseOrder[sorted]
   - sort list based on each course string length - user defined Comparator.comparing(lamdaEx)
